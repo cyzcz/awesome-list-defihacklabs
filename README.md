@@ -133,6 +133,7 @@ Combines DeFiHackLabs and Root Cause Report RCA into an Incident Explorer, makin
 | FiniteMonkey | Brad | [GitHub](https://github.com/BradMoonUESTC/finite-monkey-engine) |
 | Code Audit Hinter | Brad | [GitHub](https://github.com/BradMoonUESTC/audit-hint) |
 | Bastet | Alice & Daky | [GitHub](https://github.com/OneSavieLabs/Bastet) |
+| Chain.Love | Chain.Love | [Website](https://www.chain.love/) / [GitHub](https://github.com/Chain-Love/chain-love) |
 
 ---
 
